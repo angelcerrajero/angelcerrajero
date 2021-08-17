@@ -1,5 +1,9 @@
 # Hi there, I'm Angel <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/angelcerrajeroharo//)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angel.cerrajeroharo@gmail.com)](mailto:angel.cerrajeroharo@gmail.com)
+
+
 ## I'm a Computer Science and Engineering  
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
