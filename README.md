@@ -1,9 +1,9 @@
 # Hi there, I'm Angel <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 
-## I'm a Computer Science and Engineering  
+## I'm a Computer Science and Engineering
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 💻 I’m currently working on Digi Spain Telecom as a Front-end Developer. 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Vue, Redux/Vuex etc...
