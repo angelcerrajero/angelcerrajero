@@ -1,11 +1,22 @@
 # Hi, i'm Angel 👋
 
+## I'm a Computer Science and Engineering  
+
+- 💻 I’m currently working on Digi Spain Telecom as a Front-end Developer. 
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Vue, Redux/Vuex etc...
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play Tenis 🎾  && soccer 🥅  && read 📖  && videogames 🎮
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=angelcerrajero&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcerrajero&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
-## 🔭 Languages I use:
+## ⚡ What I code with:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,14 +25,6 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-
-https://github-readme-stats.vercel.app/api?username={angelcerrajero}&theme=blue-green
-
-  
-## ⚡ What I code with:
-
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🌱 I’m currently learning:
  <p align="center">
