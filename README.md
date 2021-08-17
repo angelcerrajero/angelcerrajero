@@ -2,12 +2,11 @@
 
 <!-- My GitHub stats with buefy theme ❤️ -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mariasola&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasola&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=angelcerrajero&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcerrajero&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
 ## 🔭 I’m currently working on:
 <p align="left"><a href="https://www.digimobil.es/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mariasola/first-contributions"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariasola&repo=first-contributions" width=350> </a>
   
 ## ⚡ What I code with:
 
