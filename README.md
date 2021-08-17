@@ -15,7 +15,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 
-https://github-readme-stats.vercel.app/api?angelcerrarjero={angelcerrajero}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username={angelcerrajero}&theme=blue-green
 
   
 ## ⚡ What I code with:
