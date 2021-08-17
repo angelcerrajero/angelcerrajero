@@ -3,7 +3,7 @@
 
 ## I'm a Computer Science and Engineering  
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 💻 I’m currently working on Digi Spain Telecom as a Front-end Developer. 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Vue, Redux/Vuex etc...
