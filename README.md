@@ -5,9 +5,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=angelcerrajero&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcerrajero&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
-## 🔭 I’m currently working on:
-<p align="left"><a href="https://www.digimobil.es/"> <img src="https://s3.eu-west-1.amazonaws.com/www.jobfluent.com/company_logos/4/4/8/4488_170_170.jpeg></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## 🔭 Languages I use:
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 ## ⚡ What I code with:
 
