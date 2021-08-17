@@ -6,7 +6,7 @@
 </p>
 
 ## 🔭 I’m currently working on:
-<p align="left"><a href="https://www.digimobil.es/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Logo.png></a>
+<p align="left"><a href="https://www.digimobil.es/"> <img src="https://s3.eu-west-1.amazonaws.com/www.jobfluent.com/company_logos/4/4/8/4488_170_170.jpeg></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 ## ⚡ What I code with:
