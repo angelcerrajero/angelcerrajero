@@ -3,7 +3,7 @@
 
 ## I'm a Software Developer
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<a href="https://github.com/angelcerrajero"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></a>
 
 - 💻 I’m currently working on Digi Spain Telecom as a Front-end Developer. 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Vue, Redux/Vuex etc...
